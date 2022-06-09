@@ -1,0 +1,3 @@
+C:/Users/Viacheslav/source/repos/find_file_/find_file_/out/build/x64-Debug/CMakeFiles/find_file_.dir
+C:/Users/Viacheslav/source/repos/find_file_/find_file_/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Viacheslav/source/repos/find_file_/find_file_/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
